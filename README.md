@@ -3,7 +3,7 @@
 <h2 align = "center">  Machine Learning Projects </h2> 
 
 
-|  [Bank Customers Churn Prediction Model](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/BankCustomerChurnPrediction)|  [Gym Members attendance Prediction Model](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/GymFitnessClubCaseStudy)|
+|  [Student Performance Indicator](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/BankCustomerChurnPrediction)|  [Gym Members attendance Prediction Model](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/GymFitnessClubCaseStudy)|
 | :-:| :-:| 
 | [<img src = "https://user-images.githubusercontent.com/108056063/209590465-920c8954-d21f-4285-aaa2-194ec44eaf3a.png" alt="my banner" width = 500 height = 250/>](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/BankCustomerChurnPrediction)| [<img src="https://user-images.githubusercontent.com/108056063/209591136-311e6caf-44e4-46bf-9a34-2c66f7f854c4.png" width = 500 height = 250/>](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/GymFitnessClubCaseStudy)|
 
