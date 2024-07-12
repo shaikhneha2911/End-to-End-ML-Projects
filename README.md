@@ -1,6 +1,5 @@
-## End to End ML Projects
 
-<h2 align = "center">  Machine Learning Projects </h2> 
+<h2 align = "center">  End-to-End Machine Learning Projects </h2> 
 
 
 |  [Student Performance Indicator](https://github.com/shaikhneha2911/End-to-End-ML-Projects/tree/main/mlproject)|  [Customer Churn Prediction](https://github.com/shaikhneha2911/End-to-End-ML-Projects/tree/main/Bank-Customers-Churn-Prediction)|
