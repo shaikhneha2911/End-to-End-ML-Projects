@@ -7,13 +7,13 @@
 | :-:| :-:| 
 | [<img src = "https://github.com/shaikhneha2911/shaikhneha2911/blob/main/student.png" alt="my banner" width = 500 height = 250/>](https://github.com/shaikhneha2911/End-to-End-ML-Projects/tree/main/mlproject)| [<img src="Bank-Customers-Churn-Prediction/Churn.png" width = 500 height = 250/>](https://github.com/shaikhneha2911/End-to-End-ML-Projects/tree/main/Bank-Customers-Churn-Prediction)|
 
-| [MLFlow project deployed in the AWS EC2 instance](https://github.com/shaikhneha2911/End-to-End-ML-Projects/tree/main/Machine-Learning-Project-with-MLflow)| [Time Series Modelling using ARIMA & SARIMAX Model](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/TimeSeriesModelling)|
+| [MLFlow project deployed in the AWS EC2 instance](https://github.com/shaikhneha2911/End-to-End-ML-Projects/tree/main/Machine-Learning-Project-with-MLflow)| [AWS CI/CD Project](https://github.com/shaikhneha2911/End-to-End-ML-Projects/tree/main/AWS-CI-CD-Projects)|
 | :-:| :-:| 
-| [<img src = "Machine-Learning-Project-with-MLflow/MLFlow_AWS.png" alt="my banner" width = 500 height = 250/>](https://github.com/shaikhneha2911/End-to-End-ML-Projects/tree/main/Machine-Learning-Project-with-MLflow)| [<img src = "https://user-images.githubusercontent.com/108056063/214973749-5dfef065-83de-43f5-9357-ed7dc6aed256.png" width = 500 height = 250/>](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/TimeSeriesModelling)
+| [<img src = "Machine-Learning-Project-with-MLflow/MLFlow_AWS.png" alt="my banner" width = 500 height = 250/>](https://github.com/shaikhneha2911/End-to-End-ML-Projects/tree/main/Machine-Learning-Project-with-MLflow)| [<img src = "AWS-CI-CD-Projects/AWS_CICD.png" width = 500 height = 250/>](https://github.com/shaikhneha2911/End-to-End-ML-Projects/tree/main/AWS-CI-CD-Projects)
 
-| [Movies Recommendation System](https://github.com/iqrabismii/MoviestRecommendationSystem/tree/main/MoviesRecommendationSystem)| [Collaborative Filtering for Movies using Matrix Factorisation](https://github.com/iqrabismii/MoviesRecommendationSystem/tree/main/CFBasedRecommendation)|
+| [Movies Recommendation System](https://github.com/iqrabismii/MoviestRecommendationSystem/tree/main/MoviesRecommendationSystem)| [Multivariate Time Series Forcasting](https://github.com/shaikhneha2911/End-to-End-ML-Projects/tree/main/Multivariate%20Time%20Series%20Forcasting)|
 | :-:| :-:| 
-| [<img src = "https://user-images.githubusercontent.com/108056063/212184587-8a40c19d-bf2a-46c2-870b-b1d3431341fc.png" alt="my banner" width = 500 height = 250/>](https://github.com/iqrabismii/MoviestRecommendationSystem/tree/main/MoviesRecommendationSystem)| [<img src = "https://user-images.githubusercontent.com/108056063/212286229-2e49f5aa-b033-4064-8037-1000d5984c29.png" width = 500 height = 250/>](https://github.com/iqrabismii/MoviesRecommendationSystem/tree/main/CFBasedRecommendation)
+| [<img src = "https://user-images.githubusercontent.com/108056063/212184587-8a40c19d-bf2a-46c2-870b-b1d3431341fc.png" alt="my banner" width = 500 height = 250/>](https://github.com/iqrabismii/MoviestRecommendationSystem/tree/main/MoviesRecommendationSystem)| [<img src = "Time_Series.png" width = 500 height = 250/>](https://github.com/shaikhneha2911/End-to-End-ML-Projects/tree/main/Multivariate%20Time%20Series%20Forcasting)
  
 
 |  [House Price Prediction Model](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/housepriceprediction)| [Popular Recipe Predition Model](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/PredictingPopularRecipe)|
