@@ -6,8 +6,6 @@
 |  [Student Performance Indicator](https://github.com/shaikhneha2911/End-to-End-ML-Projects/tree/main/mlproject)|  [Customer Churn Prediction](https://github.com/shaikhneha2911/End-to-End-ML-Projects/tree/main/Bank-Customers-Churn-Prediction)|
 | :-:| :-:| 
 | [<img src = "https://github.com/shaikhneha2911/shaikhneha2911/blob/main/student.png" alt="my banner" width = 500 height = 250/>](https://github.com/shaikhneha2911/End-to-End-ML-Projects/tree/main/mlproject)| [<img src="Bank-Customers-Churn-Prediction/Churn.png" width = 500 height = 250/>](https://github.com/shaikhneha2911/End-to-End-ML-Projects/tree/main/Bank-Customers-Churn-Prediction)|
-| [<img src = "" alt="my banner" width = 500 height = 250/>](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/BankCustomerChurnPrediction)| [<img src="https://user-images.githubusercontent.com/108056063/209591136-311e6caf-44e4-46bf-9a34-2c66f7f854c4.png" width = 500 height = 250/>](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/GymFitnessClubCaseStudy)|
-
 
 | [RFM Analysis and Customer Segmentation](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/Item_Recommendation)| [Time Series Modelling using ARIMA & SARIMAX Model](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/TimeSeriesModelling)|
 | :-:| :-:| 
