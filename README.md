@@ -7,9 +7,9 @@
 | :-:| :-:| 
 | [<img src = "https://github.com/shaikhneha2911/shaikhneha2911/blob/main/student.png" alt="my banner" width = 500 height = 250/>](https://github.com/shaikhneha2911/End-to-End-ML-Projects/tree/main/mlproject)| [<img src="Bank-Customers-Churn-Prediction/Churn.png" width = 500 height = 250/>](https://github.com/shaikhneha2911/End-to-End-ML-Projects/tree/main/Bank-Customers-Churn-Prediction)|
 
-| [RFM Analysis and Customer Segmentation](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/Item_Recommendation)| [Time Series Modelling using ARIMA & SARIMAX Model](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/TimeSeriesModelling)|
+| [MLFlow project deployed in the AWS EC2 instance](https://github.com/shaikhneha2911/End-to-End-ML-Projects/tree/main/Machine-Learning-Project-with-MLflow)| [Time Series Modelling using ARIMA & SARIMAX Model](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/TimeSeriesModelling)|
 | :-:| :-:| 
-| [<img src = "https://user-images.githubusercontent.com/108056063/211170771-b0c38d9e-99f2-4d73-ba6b-931f2daf2e7d.png" alt="my banner" width = 500 height = 250/>](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/Item_Recommendation)| [<img src = "https://user-images.githubusercontent.com/108056063/214973749-5dfef065-83de-43f5-9357-ed7dc6aed256.png" width = 500 height = 250/>](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/TimeSeriesModelling)
+| [<img src = "Machine-Learning-Project-with-MLflow/MLFlow_AWS.png" alt="my banner" width = 500 height = 250/>](https://github.com/shaikhneha2911/End-to-End-ML-Projects/tree/main/Machine-Learning-Project-with-MLflow)| [<img src = "https://user-images.githubusercontent.com/108056063/214973749-5dfef065-83de-43f5-9357-ed7dc6aed256.png" width = 500 height = 250/>](https://github.com/iqrabismii/Machine-Learning-Projects/tree/main/TimeSeriesModelling)
 
 | [Movies Recommendation System](https://github.com/iqrabismii/MoviestRecommendationSystem/tree/main/MoviesRecommendationSystem)| [Collaborative Filtering for Movies using Matrix Factorisation](https://github.com/iqrabismii/MoviesRecommendationSystem/tree/main/CFBasedRecommendation)|
 | :-:| :-:| 
